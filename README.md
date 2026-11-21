@@ -1,31 +1,27 @@
 <div align="center">
 
-<img src="./assets/l33-green-profile.svg" width="100%" alt="L33TER1337 — Unity / C# developer, freelance services, skills including ML-Agents, and featured projects" />
+<img src="./assets/l33-motion-v2.svg" width="100%" alt="L33TER1337 — animated Unity / C# developer portfolio banner with Gameplay, Tools, Multiplayer and ML-Agents skills" />
 
-**Unity / C# game development — open to freelance work**
-
-[**Discuss a Unity project**](https://github.com/l33ter1337/l33ter1337/issues/new) · [**Hard Blood (itch.io)**](https://daniilka1337games.itch.io/hard-blood)
+[**Discuss a Unity project**](https://github.com/l33ter1337/l33ter1337/issues/new) · [**Hard Blood — published game**](https://daniilka1337games.itch.io/hard-blood)
 
 </div>
 
----
+### Skills & freelance services
 
-### Services & skills
+**Unity / C#** · Gameplay systems · Debugging · Editor tools · Procedural generation · Optimisation
 
-**Unity / C#:** gameplay systems, bug fixing, Unity Editor tools, procedural generation, performance optimisation.
+**Networking & game AI** · FishNet · Unity ML-Agents · Training game agents (drones and vehicles)
 
-**Multiplayer & ML:** FishNet, Unity ML-Agents, training and integration of game AI agents including drones and vehicles.
+### Projects
 
-### Selected work
+**[Hard Blood](https://daniilka1337games.itch.io/hard-blood)** — published game.
 
-**[Hard Blood](https://daniilka1337games.itch.io/hard-blood)** — an earlier published game.
+**QUOTA SLOP** — in-development Unity project featuring CavityWorld procedural generation, custom tooling, co-op, and ML-Agents. *Source repository is private.*
 
-**QUOTA SLOP** — a Unity project in active development, covering procedural CavityWorld environments, game systems, co-op, tooling and ML-Agents. **Source code is private.**
+### Freelance contact
 
-### Freelance inquiries
+Available for Unity fixes, systems, and custom tools. Scope and price are agreed per project.
 
-Available for focused Unity fixes, gameplay features, custom editor tooling and larger scoped tasks. Quotes depend on scope and requirements.
+[**Get in touch via GitHub →**](https://github.com/l33ter1337/l33ter1337/issues/new)
 
-[**Contact via GitHub Issues →**](https://github.com/l33ter1337/l33ter1337/issues/new)
-
-<sub>GitHub Issues are public. Please don't post private code, credentials, or sensitive project material there.</sub>
+<sub>GitHub Issues are public. Don't post credentials, private code or confidential material.</sub>
