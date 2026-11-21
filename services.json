@@ -150,10 +150,15 @@
   ],
   "pricing": "Quoted individually after scope review; no fixed public rates",
   "contact": {
-    "channel": "Public GitHub issues for general non-confidential questions only",
-    "url": "https://github.com/l33ter1337/l33ter1337/issues/new",
-    "private_channel": "Not yet published",
-    "privacy": "Do not post budgets, private source code, credentials, client data or confidential information in public issues."
+    "channel": "Telegram direct messages",
+    "username": "@Djogdev",
+    "url": "https://t.me/Djogdev",
+    "private_channel": "Telegram DM (not public GitHub Issues)",
+    "public_questions": {
+      "channel": "GitHub Issues",
+      "url": "https://github.com/l33ter1337/l33ter1337/issues/new"
+    },
+    "privacy": "Telegram direct messages are not posted publicly as GitHub Issues. Never send passwords or access tokens; verify recipients before sharing confidential material."
   },
   "note": "Earlier project names are descriptive English translations. Historical work is based on archived game announcements and screenshots; present download availability has not been verified. Collaboration descriptions do not imply authorship of third-party 3D assets.",
   "skills": [

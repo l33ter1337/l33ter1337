@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 146" role="img" aria-labelledby="title desc">
+<title id="title">HIRE ME — Contact on Telegram</title>
+<desc id="desc">Freelance project inquiries. Contact @Djogdev directly on Telegram.</desc>
+<defs>
+ <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07120F"/><stop offset=".52" stop-color="#103127"/><stop offset="1" stop-color="#071719"/></linearGradient>
+ <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0F7454"/><stop offset=".45" stop-color="#4DFAC0"/><stop offset="1" stop-color="#147A6B"/></linearGradient>
+ <linearGradient id="button" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#72FFD0"/><stop offset="1" stop-color="#26C998"/></linearGradient>
+ <radialGradient id="radiance"><stop stop-color="#22F1AE" stop-opacity=".27"/><stop offset="1" stop-color="#22F1AE" stop-opacity="0"/></radialGradient>
+ <pattern id="mesh" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#53EFBC" stroke-opacity=".07" stroke-width="1"/></pattern>
+ <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="8"/></filter>
+ <clipPath id="frame"><rect x="2" y="2" width="1096" height="142" rx="17"/></clipPath>
+</defs>
+<rect x="2" y="2" width="1096" height="142" rx="17" fill="url(#back)" stroke="url(#edge)" stroke-width="2.3"/>
+<g clip-path="url(#frame)">
+ <rect width="1100" height="146" fill="url(#mesh)"/>
+ <ellipse cx="110" cy="72" rx="180" ry="120" fill="url(#radiance)"/>
+ <path d="M-12 132L284 0M854 150L1155-34" stroke="#55EDBA" stroke-opacity=".10" stroke-width="31"/>
+ <path d="M3 143L350 0M830 148L1100 14" fill="none" stroke="#59F5B7" stroke-opacity=".30" stroke-width="1.5"/>
+ <path d="M0 139H1100" stroke="#4DFFD0" stroke-opacity=".4" stroke-width="2"/>
+ <rect x="-400" y="0" width="100" height="146" fill="#9DFFE0" opacity=".025" transform="skewX(-20)">
+   <animate attributeName="x" values="-400;1450" dur="7s" repeatCount="indefinite"/>
+ </rect>
+</g>
+<g transform="translate(78 73)">
+ <circle r="48" fill="#0A2C22" stroke="#4CEEB4" stroke-opacity=".38" stroke-width="1.5"/>
+ <circle r="39" fill="none" stroke="#57FBD0" stroke-opacity=".22" stroke-width="7" filter="url(#glow)">
+   <animate attributeName="opacity" values=".3;.8;.3" dur="3.8s" repeatCount="indefinite"/>
+ </circle>
+ <circle r="32" fill="#14503C" stroke="#69FFD0" stroke-width="1.7"/>
+ <path d="M-18 -7L21-23C25-25 28-20 25-17L14 23C13 28 9 29 6 24L-4 10L-13 16C-17 19-20 17-19 12L-18-7Z" fill="#7BFFCC"/>
+ <path d="M-4 10L20-20L-13 16" fill="none" stroke="#0D6550" stroke-width="3" stroke-linejoin="round"/>
+ <path d="M-18-7L20-20" stroke="#D0FFED" stroke-opacity=".7" stroke-width="1.5"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="148" y="58" fill="#E9FFF5" font-size="33" font-weight="800" letter-spacing="1">HIRE ME</text>
+ <text x="324" y="58" fill="#67FCC5" font-size="33" font-weight="700" letter-spacing=".5">/ TELEGRAM</text>
+ <text x="149" y="93" fill="#B8E4D0" font-size="21" font-weight="500" letter-spacing=".6">PRIVATE UNITY / C# PROJECT INQUIRIES</text>
+ <text x="149" y="119" fill="#7EE2B8" font-size="19" letter-spacing="1.5">@Djogdev</text>
+</g>
+<g>
+ <rect x="858" y="46" width="203" height="58" rx="11" fill="url(#button)" />
+ <rect x="862" y="50" width="195" height="50" rx="8" fill="none" stroke="#B9FFE5" stroke-opacity=".55"/>
+ <text x="887" y="82" fill="#06281F" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="800" letter-spacing=".1">OPEN CHAT</text>
+ <path d="M1024 71h18m-8-8l8 8-8 8" fill="none" stroke="#06382A" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+   <animateTransform attributeName="transform" type="translate" values="0 0;4 0;0 0" dur="2.5s" repeatCount="indefinite"/>
+ </path>
+</g>
+<path d="M20 25V15h52M1080 120v11h-46" stroke="#7CFFCE" stroke-opacity=".48" stroke-width="2" fill="none"/>
+</svg>

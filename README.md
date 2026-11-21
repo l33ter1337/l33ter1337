@@ -8,6 +8,16 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://t.me/Djogdev">
+  <img src="./assets/hire-me-telegram.svg" width="100%" alt="HIRE ME — Contact privately on Telegram, @Djogdev. Click to open a direct message." />
+</a>
+
+[**Send a direct message to @Djogdev ↗**](https://t.me/Djogdev)
+
+</div>
+
 <img src="./assets/skills-motion-v4.gif" width="100%" alt="Animated What I Build panel with six detailed neon icons: gameplay controller, editor coding window, procedural world, performance meter, multiplayer network and machine-learning chip." />
 
 <details>
@@ -53,8 +63,8 @@
 
 **Unity fixes · Gameplay features · Custom Editor tools · Prototypes · Procedural generation · Game AI**
 
-Project pricing and scope are discussed individually. A confidential contact channel has not been published yet.
+Project pricing and scope are discussed individually. For a private project inquiry, message me on **Telegram: [@Djogdev](https://t.me/Djogdev)**.
 
-[**Public questions — GitHub Issues ↗**](https://github.com/l33ter1337/l33ter1337/issues/new) &nbsp;·&nbsp; [**Machine-readable skills & services (JSON) ↗**](./services.json)
+[**💬 Contact me on Telegram ↗**](https://t.me/Djogdev) &nbsp;·&nbsp; [**Public questions — GitHub Issues ↗**](https://github.com/l33ter1337/l33ter1337/issues/new) &nbsp;·&nbsp; [**Machine-readable services (JSON) ↗**](./services.json)
 
 <sub>GitHub Issues are public. Please do not post budgets, credentials, client information, private source code or confidential project details there.</sub>
