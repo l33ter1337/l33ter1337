@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">L33TER1337 — Game Developer</title>
+<desc id="desc">Dark technical portfolio banner with amber highlights and an isometric procedural world illustration.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c1118"/><stop offset=".55" stop-color="#121d27"/><stop offset="1" stop-color="#070b11"/></linearGradient>
+  <radialGradient id="halo" cx=".72" cy=".48" r=".58"><stop stop-color="#f5a948" stop-opacity=".17"/><stop offset="1" stop-color="#f5a948" stop-opacity="0"/></radialGradient>
+  <linearGradient id="amber" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffcc82"/><stop offset="1" stop-color="#f19133"/></linearGradient>
+  <linearGradient id="side" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#293c46"/><stop offset="1" stop-color="#14222a"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#72818d" stroke-opacity=".105" stroke-width="1"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+  <clipPath id="frame"><rect width="1200" height="340" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="340" fill="url(#bg)"/>
+<rect width="1200" height="340" fill="url(#halo)"/>
+<rect width="1200" height="340" fill="url(#grid)"/>
+<path d="M0 0H1200V4H0Z" fill="#f5a948"/>
+<path d="M0 336H1200V340H0Z" fill="#f5a948" opacity=".64"/>
+<path d="M36 28H1164M36 311H1164" stroke="#8e9ba3" stroke-opacity=".18"/>
+<path d="M41 54V287" stroke="#f5a948" stroke-width="3"/>
+<path d="M53 54h32M53 287h32" stroke="#f5a948" opacity=".65"/>
+<text x="79" y="75" fill="#f2b362" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="4">INDEPENDENT GAME DEVELOPER</text>
+<text x="74" y="164" fill="#f4f5f6" font-family="Arial,Helvetica,sans-serif" font-size="72" font-weight="800" letter-spacing="-2">L33TER1337</text>
+<path d="M79 188h462" stroke="url(#amber)" stroke-width="2" opacity=".9"/>
+<text x="79" y="225" fill="#b8c6cf" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="2">UNITY <tspan fill="#f0ae5e">/</tspan> C# <tspan fill="#f0ae5e">/</tspan> GAME SYSTEMS</text>
+<text x="79" y="274" fill="#8194a0" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="1.6">PROCEDURAL WORLDS   •   CO-OP   •   TOOLS</text>
+<path d="M618 45L575 295" stroke="#8da0aa" stroke-opacity=".14"/>
+<g transform="translate(657 20)">
+ <path d="M52 174L225 75L444 180L270 280Z" fill="#0c1920" stroke="#657d86" stroke-opacity=".37" stroke-width="2"/>
+ <path d="M52 174L270 280V294L52 188Z" fill="#13242a" stroke="#657d86" stroke-opacity=".23"/>
+ <path d="M270 280L444 180V194L270 294Z" fill="#091217" stroke="#657d86" stroke-opacity=".23"/>
+ <g stroke="#607c85" stroke-opacity=".31" fill="none" stroke-width="1">
+  <path d="M92 154l217 105M135 130l217 105M178 105l217 105"/>
+  <path d="M94 194L267 95M143 218L316 118M191 241L364 142"/>
+ </g>
+ <path d="M183 154L266 108L355 151L272 198Z" fill="#364b53" stroke="#95a9b0" stroke-opacity=".56" stroke-width="2"/>
+ <path d="M183 154V204L272 251V198Z" fill="url(#side)" stroke="#536b76" stroke-width="2"/>
+ <path d="M272 198L355 151V202L272 251Z" fill="#182931" stroke="#566c74" stroke-width="2"/>
+ <path d="M213 171L248 189V226L213 207Z" fill="#0c161a" stroke="#f4b057" stroke-width="2"/>
+ <path d="M214 171L248 189" stroke="#ffd08c" stroke-width="4"/>
+ <path d="M293 198L334 175V210L293 233Z" fill="#0d1c22" stroke="#68828b" stroke-width="1.5"/>
+ <path d="M309 188V225M321 181V218" stroke="#5e7480"/>
+ <path d="M200 145L266 107L337 142" fill="none" stroke="#ffd18c" stroke-opacity=".7" stroke-width="2"/>
+ <path d="M105 210L147 186L195 210L215 198" fill="none" stroke="#f5a948" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity=".2" filter="url(#glow)"/>
+ <path d="M105 210L147 186L195 210L215 198" fill="none" stroke="#f7b565" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+ <circle cx="105" cy="210" r="5" fill="#ffc77e"/><circle cx="147" cy="186" r="4" fill="#ffc77e"/><circle cx="215" cy="198" r="4" fill="#ffc77e"/>
+ <g>
+  <path d="M99 153V190" stroke="#526c6a" stroke-width="5"/>
+  <path d="M99 98L69 153L99 165L129 153Z" fill="#31534e" stroke="#73938b" stroke-width="1.5"/>
+  <path d="M99 111L76 151L99 158Z" fill="#233f3b"/>
+  <path d="M399 166V200" stroke="#4b625e" stroke-width="5"/>
+  <path d="M399 118L367 169L399 180L429 169Z" fill="#36584e" stroke="#729384" stroke-width="1.5"/>
+  <path d="M399 128L375 166L399 172Z" fill="#25433c"/>
+  <path d="M163 98V129" stroke="#4b625e" stroke-width="4"/>
+  <path d="M163 60L137 102L163 113L188 102Z" fill="#294b48" stroke="#73938b" stroke-width="1.5"/>
+ </g>
+ <g stroke="#f3b061" stroke-width="1" opacity=".85">
+  <path d="M42 110h35m-17-18v36M442 96h24m-12-12v24M389 257h24m-12-12v24"/>
+  <path d="M42 110l49 33M454 96l-66 43M401 257l-72-30" stroke-dasharray="4 6" opacity=".65"/>
+ </g>
+ <g fill="#f6b45f"><circle cx="60" cy="110" r="3"/><circle cx="454" cy="96" r="3"/><circle cx="401" cy="257" r="3"/></g>
+ <text x="333" y="72" fill="#8ea4ad" font-family="monospace" font-size="11" letter-spacing="1">WORLD / 01</text>
+ <text x="21" y="252" fill="#748e98" font-family="monospace" font-size="11">GENERATE → TEST</text>
+</g>
+<text x="1095" y="44" text-anchor="end" fill="#728690" font-family="monospace" font-size="11" letter-spacing="1">BUILD . ITERATE . VERIFY</text>
+</g>
+</svg>
