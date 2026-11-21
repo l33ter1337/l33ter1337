@@ -42,12 +42,6 @@ A Unity game project involving procedural worlds (CavityWorld), authoring tools,
 
 `Unity` · `C#` · `Git / GitHub` · `FishNet` · `3D gameplay` · `Procedural generation` · `Unity Editor scripting` · `Performance profiling`
 
-## How I work
-
-**Understand the problem → Reproduce it → Make a focused change → Check the result → Document what was verified.**
-
-A commit is not proof a bug is fixed. I distinguish code changes from behaviour actually tested in Unity.
-
 ---
 
 <div align="center">
