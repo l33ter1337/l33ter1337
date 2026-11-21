@@ -25,7 +25,6 @@
 
 **[Hard Blood](https://daniilka1337games.itch.io/hard-blood)** · Published game
 
-**QUOTA SLOP** · Unity game in development — procedural CavityWorld environments, multiplayer, tooling and ML-Agents. *Source repository is private.*
 
 ### Work with me
 
