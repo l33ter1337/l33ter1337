@@ -160,7 +160,13 @@
       "note": "Select the Public question issue form. For budgets, private project requests and confidential information, use Telegram direct messages instead."
     },
     "privacy": "Telegram direct messages are not posted publicly as GitHub Issues. Never send passwords or access tokens; verify recipients before sharing confidential material.",
-    "inquiry_guidance": "Message @Djogdev with the Unity task or feature you need, any relevant context and your preferred timeline; budget is optional. Discuss sensitive project details in direct messages, not public issues."
+    "inquiry_guidance": "Use Telegram direct messages for freelance discussions. The deep link may prefill an editable draft, but does not send a message automatically. GitHub Issues are public and intended only for non-confidential questions.",
+    "start_message_url": "https://t.me/Djogdev?text=Hi!%20I%20found%20your%20Unity%2FC%23%20portfolio%20on%20GitHub.%20I'd%20like%20to%20discuss%20a%20project.%20Here's%20what%20I%20need%3A%20",
+    "blank_chat_url": "https://t.me/Djogdev",
+    "specialized_draft_urls": {
+      "unity_bug_fix": "https://t.me/Djogdev?text=Hi!%20I%20found%20your%20GitHub%20portfolio.%20I%20need%20help%20fixing%20a%20Unity%2FC%23%20issue.%20Here%20is%20what%20happens%3A%20",
+      "gameplay_or_editor_tool": "https://t.me/Djogdev?text=Hi!%20I%20found%20your%20GitHub%20portfolio.%20I'd%20like%20to%20discuss%20a%20Unity%20gameplay%20feature%20or%20Editor%20tool.%20Here%20is%20the%20idea%3A%20"
+    }
   },
   "note": "Earlier project names are descriptive English translations. Historical work is based on archived game announcements and screenshots; present download availability has not been verified. Collaboration descriptions do not imply authorship of third-party 3D assets.",
   "skills": [
