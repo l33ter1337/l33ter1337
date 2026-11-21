@@ -30,12 +30,4 @@ A previously published project that is part of my game-development journey.
 | Co-op networking | 3D geometry tooling | Performance profiling |
 | AI and enemy behaviors | Editor workflows | Debugging & iteration |
 
-### Development approach
-
-`Prototype` → `Implement` → `Commit` → `Test in Unity` → `Fix regressions` → `Repeat`
-
-I value practical systems, fast iterations, and testing the actual game—not just code that looks complete in a commit.
-
----
-
 <div align="center"><sub>Independent game development • Learning by shipping and improving real projects</sub></div>
