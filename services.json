@@ -38,8 +38,7 @@
       "title": "Procedural 3D world generation",
       "topics": [
         "terrain",
-        "procedural layouts",
-        "CavityWorld systems"
+        "procedural layouts"
       ]
     },
     {
@@ -75,18 +74,6 @@
       "name": "Hard Blood",
       "status": "published",
       "evidence": "https://daniilka1337games.itch.io/hard-blood"
-    },
-    {
-      "name": "QUOTA SLOP",
-      "status": "in development",
-      "code_visibility": "private",
-      "topics": [
-        "Unity",
-        "CavityWorld",
-        "FishNet",
-        "ML-Agents",
-        "procedural generation"
-      ]
     }
   ],
   "pricing": "Quoted individually after scope review; no fixed public rates",
