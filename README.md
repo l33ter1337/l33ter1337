@@ -1,49 +1,49 @@
 <div align="center">
 
-<img src="./assets/l33ter1337-animated.gif" width="100%" alt="L33TER1337 — independent Unity / C# developer. Gameplay, editor tools, multiplayer and ML-Agents. Open for freelance projects." />
+<img src="./assets/l33ter1337-animated-v4.gif" width="100%" alt="L33TER1337, Unity / C# Developer. Gameplay, Editor Tools, Multiplayer, ML-Agents. Open for freelance work. Animated emerald crystal and detailed skill icons." />
 
-**Unity / C# Game Developer · Gameplay · Tools · FishNet · ML-Agents**
+**Unity / C# Developer · Gameplay · Editor Tools · FishNet · ML-Agents**
 
-**[See my published game: Hard Blood ↗](https://daniilka1337games.itch.io/hard-blood)** &nbsp;·&nbsp; **[Public questions ↗](https://github.com/l33ter1337/l33ter1337/issues/new)**
+[**🎮 Published game — Hard Blood**](https://daniilka1337games.itch.io/hard-blood) &nbsp;·&nbsp; [**💬 Public questions only**](https://github.com/l33ter1337/l33ter1337/issues/new)
 
 </div>
 
-<img src="./assets/skills-motion.gif" width="100%" alt="What I build: gameplay, Unity Editor tools, procedural generation, debugging and performance, FishNet multiplayer and ML-Agents." />
+<img src="./assets/skills-motion-v4.gif" width="100%" alt="Animated What I Build panel with six detailed neon icons: gameplay controller, editor coding window, procedural world, performance meter, multiplayer network and machine-learning chip." />
 
 <details>
-<summary><b>Explore my technical skills</b></summary>
+<summary><b>Technical skills — details</b></summary>
 
-- **Gameplay / C#:** first-person interactions, combat, movement, game modes, progression and HUD systems.
-- **Unity Editor tools:** custom inspectors, scene utilities and authoring workflows.
-- **Procedural generation:** levels, dungeons, environments and generated 3D geometry.
-- **Debugging & performance:** compiler/runtime bugs, troubleshooting, profiling and optimisation.
-- **Multiplayer:** FishNet integration, gameplay spawning and synchronisation.
-- **ML-Agents / game AI:** training and integration of game agents, including drones and vehicle agents.
-- **Prototyping:** FPV flight, jetpack movement, survival systems, mining/clicker economies.
+- **Gameplay engineering:** Unity/C#, first-person mechanics, combat, movement, interactions, game modes, HUD and progression.
+- **Editor tooling:** inspectors, scene utilities, content-authoring workflows and custom Unity tools.
+- **Procedural systems:** 3D levels, environments, dungeon layouts and generated geometry.
+- **Debugging & performance:** Unity compiler/runtime errors, regressions, profiling, optimisation and scene-loading work.
+- **Multiplayer:** FishNet integration, spawning and networked gameplay systems.
+- **Game AI / Unity ML-Agents:** game-agent training and integration, including drones and vehicles.
+- **Prototyping:** FPV flight, jetpack movement, survival mechanics and mining/clicker game economies.
 
 </details>
 
-<img src="./assets/projects-motion.gif" width="100%" alt="Selected work: Hard Blood — published game, FPV Drone Simulator, Last Survivor 3D and a dungeon gameplay prototype." />
+<img src="./assets/projects-motion-v4.gif" width="100%" alt="Animated Selected Work panel with four distinct high-detail icons: Hard Blood published game, FPV Drone Simulator, Last Survivor 3D and Dungeon Prototype." />
 
-**[Hard Blood — published on itch.io ↗](https://daniilka1337games.itch.io/hard-blood)**
+[**Explore Hard Blood on itch.io ↗**](https://daniilka1337games.itch.io/hard-blood)
 
 <details>
-<summary><b>More games & development history</b></summary>
+<summary><b>More games & earlier development</b></summary>
 
-**Game prototypes documented in 2025 announcements and screenshots**
+**Historical projects featured in 2025 game announcements and screenshots:**
 
-- **Nubik: Last Survivor 3D** — missions, base defence and an endless survival mode.
-- **Nubik: Mining Clicker** — resource collection, upgrades, graphics options and performance updates.
-- **FPV Drone Simulator 3D** — drone controls, FPV camera and combat-oriented HUD.
-- **Jetpack Obby (Nubik)** — jetpack movement, obstacle courses, timing and upgrades.
-- **Mining Clicker** — workers, mining economy and user interface.
-- **Best in the Dungeon** — dungeon gameplay, random locations, combat and character progression.
+- **FPV Drone Simulator 3D:** drone flight controls, first-person view and combat-oriented HUD.
+- **Nubik: Last Survivor 3D:** survival missions, base defence and endless mode.
+- **Best in the Dungeon:** dungeon gameplay, random locations, combat and character progression.
+- **Nubik: Mining Clicker:** mining and upgrades, graphics options and performance updates.
+- **Jetpack Obby:** jetpack movement, obstacle courses, timing and upgrades.
+- **Mining Clicker:** workers, resource collection, upgrade economy and game UI.
 
-**Earlier work:** Voxel Bullet → Critical Bullet, and the Reveu Games development history.
+**Earlier project:** Voxel Bullet → Critical Bullet; development history connected with Reveu Games.
 
-**Collaboration:** assisted game developer and 3D artist **Hesing** with model-related work. [See an example of the artist's work on Sketchfab](https://sketchfab.com/3d-models/mcmillan-cs5-e919bb3a074f489ab29bc96cf3bee172). This link credits the artist and does not claim authorship of that model.
+**3D collaboration:** assisted developer and 3D artist **Hesing** with model-related work. [View an example from Hesing's own Sketchfab portfolio](https://sketchfab.com/3d-models/mcmillan-cs5-e919bb3a074f489ab29bc96cf3bee172). The linked model is the artist's work, not a claim of co-authorship.
 
-*These are historical portfolio examples; current download availability is not guaranteed.*
+<sub>These are historical game projects; current download availability is not guaranteed. English titles are descriptive translations.</sub>
 
 </details>
 
@@ -51,10 +51,10 @@
 
 ### Available for freelance work
 
-**Need a Unity bug fixed, a gameplay feature built, or a custom Editor tool?** I take on focused tasks and scoped projects. Pricing depends on the requirements.
+**Unity fixes · Gameplay features · Custom Editor tools · Prototypes · Procedural generation · Game AI**
 
-**Private inquiries:** a confidential contact channel has not been published yet.
+Project pricing and scope are discussed individually. A confidential contact channel has not been published yet.
 
-[**Public questions only — GitHub Issues ↗**](https://github.com/l33ter1337/l33ter1337/issues/new) &nbsp;·&nbsp; [**Services for tools & agents (JSON) ↗**](./services.json)
+[**Public questions — GitHub Issues ↗**](https://github.com/l33ter1337/l33ter1337/issues/new) &nbsp;·&nbsp; [**Machine-readable skills & services (JSON) ↗**](./services.json)
 
-<sub>GitHub Issues are public. Please don't post budgets, credentials, private project files or confidential client information.</sub>
+<sub>GitHub Issues are public. Please do not post budgets, credentials, client information, private source code or confidential project details there.</sub>
