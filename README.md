@@ -3,7 +3,7 @@
 # L33TER1337
 ### Unity / C# Developer
 
-**Gameplay systems · Bug fixing · Unity Editor tools · Procedural generation · Multiplayer**
+**Gameplay systems · Bug fixing · Unity Editor tools · Procedural generation · Multiplayer · ML-Agents**
 
 **Open to paid freelance projects — from focused fixes to custom game systems.**
 
@@ -24,6 +24,7 @@
 | **Procedural generation** | Terrain, level layouts, 3D geometry, paths, and generation workflows |
 | **Gameplay engineering** | First-person mechanics, interactions, AI-related systems, and game logic |
 | **Multiplayer** | Investigate FishNet spawning, state synchronisation, and gameplay integration |
+| **Unity ML-Agents** | Train and integrate machine-learning agents for game behaviour, including drones and vehicles |
 | **Performance** | Profile bottlenecks and optimise allocations, repeated lookups, meshes, and scene updates |
 
 **Small job?** A specific bug with clear reproduction steps is a great place to start. For larger work, let's define the scope and acceptance criteria first.
@@ -34,13 +35,13 @@
 An earlier released game project. [View the public game page](https://daniilka1337games.itch.io/hard-blood).
 
 ### QUOTA SLOP — active development
-A Unity game project involving procedural worlds (CavityWorld), authoring tools, FPS gameplay systems, FishNet co-op, and optimisation work.
+A Unity game project involving procedural worlds (CavityWorld), authoring tools, FPS gameplay systems, FishNet co-op, performance work, and Unity ML-Agents training for drone and vehicle agents.
 
 > The QUOTA SLOP source repository is **private**. Public demonstrations and shareable code samples will be listed here when available; the private project is not presented as open source.
 
 ## Tools & technologies
 
-`Unity` · `C#` · `Git / GitHub` · `FishNet` · `3D gameplay` · `Procedural generation` · `Unity Editor scripting` · `Performance profiling`
+`Unity` · `C#` · `Unity ML-Agents` · `Machine learning for game AI` · `Git / GitHub` · `FishNet` · `3D gameplay` · `Procedural generation` · `Unity Editor scripting` · `Performance profiling`
 
 ---
 
