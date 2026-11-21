@@ -1,35 +1,35 @@
 <div align="center">
 
-<img src="./assets/l33-cinematic-v3.svg" width="100%" alt="L33TER1337: cinematic animated Unity and C# developer profile, gameplay, editor tools, multiplayer, ML-Agents, open for freelance" />
+<a href="https://github.com/l33ter1337/l33ter1337/issues/new">
+  <img src="./assets/l33ter1337-animated.gif" width="100%" alt="L33TER1337 — Unity and C# Game Developer. Gameplay, Unity Editor tools, multiplayer, ML-Agents. Open for freelance projects." />
+</a>
 
-### Need a Unity issue fixed or a game system built?
+**Unity / C# · Gameplay · Tools · Multiplayer · ML-Agents**
 
-**Unity / C# · Editor tooling · Multiplayer · Procedural worlds · ML-Agents**
-
-[**Request a project quote ↗**](https://github.com/l33ter1337/l33ter1337/issues/new) &nbsp;·&nbsp; [**See published game ↗**](https://daniilka1337games.itch.io/hard-blood)
+[**💬 Request a quote**](https://github.com/l33ter1337/l33ter1337/issues/new) &nbsp; · &nbsp; [**🎮 Published game: Hard Blood**](https://daniilka1337games.itch.io/hard-blood)
 
 </div>
 
----
+### What I can build
 
-### What I can help with
-
-| Specialty | Freelance tasks |
+| Area | Unity development services |
 | :-- | :-- |
-| **Unity / C# fixes** | Compile errors, broken gameplay, editor issues, unexpected runtime behaviour |
-| **Gameplay & tools** | Game systems, custom Unity Editor tools, procedural level generation |
-| **Multiplayer & ML** | FishNet integration, Unity ML-Agents, trained game agents (drones and vehicles) |
-| **Performance** | Profiling, optimisation, runtime bottlenecks |
+| **Game systems** | Gameplay mechanics, first-person interactions, game AI integration |
+| **Debugging** | Unity C# bugs, compiler errors, broken gameplay |
+| **Editor tooling** | Custom Unity tools, authoring workflows, scene utilities |
+| **Procedural systems** | Level generation, environment logic, procedural geometry |
+| **Networking** | FishNet multiplayer integration and debugging |
+| **ML-Agents** | Training and integrating game agents, including drones and vehicles |
+| **Performance** | Profiling, bottleneck investigation, runtime optimisation |
 
-### Selected work
+### Public work
 
-**[Hard Blood](https://daniilka1337games.itch.io/hard-blood)** · Published game
+**[Hard Blood](https://daniilka1337games.itch.io/hard-blood)** — published game.
 
+### Available for freelance work
 
-### Work with me
+Have a Unity issue or a feature to build? Send a short description of the task. Pricing and scope are discussed individually.
 
-**Open to freelance inquiries.** Short Unity fixes and larger scoped projects are both welcome. Pricing is agreed individually based on the task.
+[**Discuss a project →**](https://github.com/l33ter1337/l33ter1337/issues/new) · [**Service catalogue (JSON)**](./services.json)
 
-[**Start a project inquiry on GitHub →**](https://github.com/l33ter1337/l33ter1337/issues/new) · [**Machine-readable services (JSON)**](./services.json)
-
-<sub>GitHub Issues are public. Please don't share private source code, credentials or confidential project data in an issue.</sub>
+<sub>GitHub Issues are public. Don't share private source code, passwords, access tokens or confidential project files in an issue.</sub>
