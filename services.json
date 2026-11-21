@@ -76,7 +76,7 @@
       "link": "https://daniilka1337games.itch.io/hard-blood"
     },
     {
-      "name": "Нубик — Последний выживший 3D",
+      "name": "Nubik: Last Survivor 3D",
       "category": "historical 2025 game",
       "topics": [
         "survival",
@@ -87,7 +87,7 @@
       "availability": "not verified"
     },
     {
-      "name": "Нубик — кликер копальщик",
+      "name": "Nubik: Mining Clicker",
       "category": "historical 2025 game",
       "topics": [
         "mining clicker",
@@ -98,7 +98,7 @@
       "availability": "not verified"
     },
     {
-      "name": "FPV Симулятор Дронов 3D",
+      "name": "FPV Drone Simulator 3D",
       "category": "historical 2025 game",
       "topics": [
         "FPV control",
@@ -108,7 +108,7 @@
       "availability": "not verified"
     },
     {
-      "name": "Обби — Но ты Нубик на джетпаке",
+      "name": "Jetpack Obby (Nubik)",
       "category": "historical 2025 game",
       "topics": [
         "jetpack movement",
@@ -118,7 +118,7 @@
       "availability": "not verified"
     },
     {
-      "name": "Кликер копальщик",
+      "name": "Mining Clicker",
       "category": "historical 2025 game",
       "topics": [
         "mining economy",
@@ -129,7 +129,7 @@
       "availability": "not verified"
     },
     {
-      "name": "Лучший в подземелье",
+      "name": "Best in the Dungeon",
       "category": "historical 2025 game",
       "topics": [
         "dungeons",
@@ -155,7 +155,7 @@
     "private_channel": "Not yet published",
     "privacy": "Do not post budgets, private source code, credentials, client data or confidential information in public issues."
   },
-  "note": "Historical games are based on development screenshots and dated announcements provided by the creator. Their present availability is unverified; skills and collaboration descriptions do not imply authorship of any third-party 3D assets.",
+  "note": "Earlier project names are descriptive English translations. Historical work is based on archived game announcements and screenshots; present download availability has not been verified. Collaboration descriptions do not imply authorship of third-party 3D assets.",
   "skills": [
     "Unity / C# gameplay programming",
     "FPS gameplay and combat systems",
