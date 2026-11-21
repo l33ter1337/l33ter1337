@@ -1,12 +1,10 @@
 <div align="center">
 
-<a href="https://github.com/l33ter1337/l33ter1337/issues/new">
-  <img src="./assets/l33ter1337-animated.gif" width="100%" alt="L33TER1337 — Unity and C# Game Developer. Gameplay, Unity Editor tools, multiplayer, ML-Agents. Open for freelance projects." />
-</a>
+<img src="./assets/l33ter1337-animated.gif" width="100%" alt="L33TER1337 — Unity and C# Game Developer. Gameplay, Unity Editor tools, multiplayer, ML-Agents. Open for freelance projects." />
 
 **Unity / C# · Gameplay · Tools · Multiplayer · ML-Agents**
 
-[**💬 Request a quote**](https://github.com/l33ter1337/l33ter1337/issues/new) &nbsp; · &nbsp; [**🎮 Published game: Hard Blood**](https://daniilka1337games.itch.io/hard-blood)
+**Private project inquiries: contact form being set up** &nbsp; · &nbsp; [**🎮 Published game: Hard Blood**](https://daniilka1337games.itch.io/hard-blood)
 
 </div>
 
@@ -28,8 +26,8 @@
 
 ### Available for freelance work
 
-Have a Unity issue or a feature to build? Send a short description of the task. Pricing and scope are discussed individually.
+Have a Unity issue or a feature to build? Pricing and scope are discussed privately, after an initial inquiry.
 
-[**Discuss a project →**](https://github.com/l33ter1337/l33ter1337/issues/new) · [**Service catalogue (JSON)**](./services.json)
+[**Public questions only (GitHub Issues) →**](https://github.com/l33ter1337/l33ter1337/issues/new) · [**Service catalogue (JSON)**](./services.json)
 
-<sub>GitHub Issues are public. Don't share private source code, passwords, access tokens or confidential project files in an issue.</sub>
+<sub>GitHub Issues are visible to everyone. Do not post project budgets, confidential details, private source code, credentials or client information there. A private inquiry channel will be linked here once configured.</sub>
