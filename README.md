@@ -4,17 +4,15 @@
 
 **Unity / C# Developer · Gameplay · Editor Tools · FishNet · ML-Agents**
 
-[**🎮 Published game — Hard Blood**](https://daniilka1337games.itch.io/hard-blood) &nbsp;·&nbsp; [**💬 Public questions only**](https://github.com/l33ter1337/l33ter1337/issues/new)
+[**💬 HIRE ME — Telegram @Djogdev ↗**](https://t.me/Djogdev) &nbsp;·&nbsp; [**🎮 Hard Blood — published game ↗**](https://daniilka1337games.itch.io/hard-blood)
 
 </div>
 
 <div align="center">
 
 <a href="https://t.me/Djogdev">
-  <img src="./assets/hire-me-telegram.svg" width="100%" alt="HIRE ME — Contact privately on Telegram, @Djogdev. Click to open a direct message." />
+  <img src="./assets/hire-me-telegram-v2.gif" width="100%" alt="Message me directly on Telegram @Djogdev about Unity or C# freelance projects. Animated emerald contact banner." />
 </a>
-
-[**Send a direct message to @Djogdev ↗**](https://t.me/Djogdev)
 
 </div>
 
@@ -59,12 +57,12 @@
 
 ---
 
-### Available for freelance work
+### Let's build something great
 
-**Unity fixes · Gameplay features · Custom Editor tools · Prototypes · Procedural generation · Game AI**
+**Need a Unity bug fixed, gameplay system built, or custom Editor tool?**
 
-Project pricing and scope are discussed individually. For a private project inquiry, message me on **Telegram: [@Djogdev](https://t.me/Djogdev)**.
+Message me on [**Telegram @Djogdev**](https://t.me/Djogdev) with a short description of your project. We can discuss scope, schedule and pricing directly.
 
-[**💬 Contact me on Telegram ↗**](https://t.me/Djogdev) &nbsp;·&nbsp; [**Public questions — GitHub Issues ↗**](https://github.com/l33ter1337/l33ter1337/issues/new) &nbsp;·&nbsp; [**Machine-readable services (JSON) ↗**](./services.json)
+[**💬 Start a project conversation ↗**](https://t.me/Djogdev) &nbsp;·&nbsp; [**Services & skills (JSON) ↗**](./services.json)
 
-<sub>GitHub Issues are public. Please do not post budgets, credentials, client information, private source code or confidential project details there.</sub>
+<sub>For non-confidential public questions, use [GitHub Issues](https://github.com/l33ter1337/l33ter1337/issues/new). GitHub Issues are public; do not post private project files, budgets, passwords or access tokens.</sub>
