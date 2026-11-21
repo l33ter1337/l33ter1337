@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 440" role="img" aria-labelledby="title desc">
+<title id="title">L33TER1337 — Unity C# Developer portfolio</title>
+<desc id="desc">Compact dark-green banner: developer name, availability for freelance work, seven specialities including ML-Agents, and the Hard Blood and QUOTA SLOP projects.</desc>
+<defs>
+<linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06120f"/><stop offset=".52" stop-color="#091612"/><stop offset="1" stop-color="#03110e"/></linearGradient>
+<linearGradient id="cardShade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1f563b" stop-opacity=".22"/><stop offset="1" stop-color="#030a08" stop-opacity="0"/></linearGradient>
+<linearGradient id="status" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#103b26"/><stop offset="1" stop-color="#071b14"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#51a67b" stroke-opacity=".055"/></pattern>
+<clipPath id="cl"><rect width="1600" height="440" rx="19"/></clipPath>
+</defs>
+<g clip-path="url(#cl)">
+<rect width="1600" height="440" fill="url(#back)"/>
+<rect width="1600" height="440" fill="url(#grid)"/>
+<path d="M-90 98C240-110 400-15 610-90M-70 123C240-76 410 10 600-55M-50 146C240-50 425 42 595-20M1310 500C1460 310 1680 350 1775 165M1340 511C1470 350 1660 387 1775 215M1365 522C1485 378 1680 420 1775 255" stroke="#2ded75" stroke-opacity=".15" stroke-width="2" fill="none"/>
+<path d="M0 2H1600" stroke="#30a95e" stroke-opacity=".45" stroke-width="4"/>
+<rect x="56" y="40" width="136" height="117" rx="22" fill="#071e15" stroke="#39e575" stroke-width="2.3"/>
+<path d="M70 139l109-93" stroke="#184d30" stroke-width="3" opacity=".55"/>
+<text x="124" y="120" text-anchor="middle" fill="#53ef88" font-family="Arial,Helvetica,sans-serif" font-size="72" font-style="italic" font-weight="900" letter-spacing="-5">L33</text>
+<path d="M216 51v111" stroke="#42eb7d" stroke-width="2"/>
+<text x="251" y="112" fill="#f1fff5" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="800" letter-spacing="-1.8">L33TER1337</text>
+<text x="252" y="155" fill="#bfd2c9" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="400" letter-spacing="1">Unity / C# Developer</text>
+<rect x="1040" y="65" width="496" height="73" rx="35" fill="url(#status)" stroke="#43e681" stroke-width="2.4"/>
+<circle cx="1086" cy="102" r="9" fill="#56f48a"/>
+<text x="1115" y="112" fill="#61f391" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">Available for freelance work</text>
+<path d="M52 190H1548" stroke="#83b198" stroke-opacity=".26" stroke-width="1.4"/>
+<rect x="59" y="211" width="5" height="28" rx="2" fill="#51f287"/>
+<text x="80" y="236" fill="#edfff4" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700">What I build</text>
+<path d="M280 225h798" stroke="#38845b" stroke-opacity=".44"/>
+<path d="M1108 218v176" stroke="#52a978" stroke-opacity=".35"/>
+<rect x="1140" y="211" width="5" height="28" rx="2" fill="#51f287"/>
+<text x="1160" y="236" fill="#edfff4" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700">Projects</text>
+<path d="M1272 225h265" stroke="#38845b" stroke-opacity=".44"/>
+<g>
+<rect x="60" y="269" width="135" height="117" rx="13" fill="#0a1d17" stroke="#254e38" stroke-width="1.5"/>
+<rect x="61" y="270" width="133" height="115" rx="12" fill="url(#cardShade)" opacity=".72"/>
+<g transform="translate(127.5 313)" fill="none" stroke="#53ef88" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><path d="M-23 5q-7-18-15-9l-7 15q-3 13 9 12l20-12h32l20 12q12 1 9-12l-7-15q-8-9-15 9"/><path d="M-23-2v18M-32 7h18"/><circle cx="23" cy="4" r="3.5"/><circle cx="31" cy="12" r="3.5"/></g>
+<text x="127.5" y="369" fill="#e8fff0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="600" text-anchor="middle">Gameplay</text></g>
+<g>
+<rect x="207" y="269" width="135" height="117" rx="13" fill="#0a1d17" stroke="#254e38" stroke-width="1.5"/>
+<rect x="208" y="270" width="133" height="115" rx="12" fill="url(#cardShade)" opacity=".72"/>
+<g transform="translate(274.5 313)" fill="none" stroke="#53ef88" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><path d="M-16-14l16-9 16 9-16 9zM-16-14v19L0 14 16 5v-19M0-5v19"/><path d="M-25 20l8 6m-4-13l8 6" opacity=".5"/></g>
+<text x="274.5" y="369" fill="#e8fff0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="600" text-anchor="middle">Editor Tools</text></g>
+<g>
+<rect x="354" y="269" width="135" height="117" rx="13" fill="#0a1d17" stroke="#254e38" stroke-width="1.5"/>
+<rect x="355" y="270" width="133" height="115" rx="12" fill="url(#cardShade)" opacity=".72"/>
+<g transform="translate(421.5 313)" fill="none" stroke="#53ef88" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><path d="M-32-12L0-28 32-12 0 4zM-32 0L0 16 32 0M-32 12L0 28 32 12"/></g>
+<text x="421.5" y="369" fill="#e8fff0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="600" text-anchor="middle">Procedural</text></g>
+<g>
+<rect x="501" y="269" width="135" height="117" rx="13" fill="#0a1d17" stroke="#254e38" stroke-width="1.5"/>
+<rect x="502" y="270" width="133" height="115" rx="12" fill="url(#cardShade)" opacity=".72"/>
+<g transform="translate(568.5 313)" fill="none" stroke="#53ef88" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><circle cx="0" cy="-5" r="15"/><path d="M-7-19l-5-9M7-19l5-9M-15-11l-17-7M-15 3l-17 6M-9 13l-13 14M15-11l17-7M15 3l17 6M9 13l13 14M0-17v25"/><circle cx="-6" cy="-7" r="1" fill="#52f583" stroke="none"/><circle cx="6" cy="-7" r="1" fill="#52f583" stroke="none"/></g>
+<text x="568.5" y="369" fill="#e8fff0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="600" text-anchor="middle">Bug Fixes</text></g>
+<g>
+<rect x="648" y="269" width="135" height="117" rx="13" fill="#0a1d17" stroke="#254e38" stroke-width="1.5"/>
+<rect x="649" y="270" width="133" height="115" rx="12" fill="url(#cardShade)" opacity=".72"/>
+<g transform="translate(715.5 313)" fill="none" stroke="#53ef88" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><path d="M-29 18a35 35 0 1 1 58 0M-18 17l18-34 12 36M-29 18h58"/><path d="M-20-6l-4-4M0-22v-6M20-6l4-4"/></g>
+<text x="715.5" y="369" fill="#e8fff0" font-family="Arial,Helvetica,sans-serif" font-size="17.5" font-weight="600" text-anchor="middle">Optimization</text></g>
+<g>
+<rect x="795" y="269" width="135" height="117" rx="13" fill="#0a1d17" stroke="#254e38" stroke-width="1.5"/>
+<rect x="796" y="270" width="133" height="115" rx="12" fill="url(#cardShade)" opacity=".72"/>
+<g transform="translate(862.5 313)" fill="none" stroke="#53ef88" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><circle cx="0" cy="-22" r="8"/><circle cx="-28" cy="24" r="8"/><circle cx="28" cy="24" r="8"/><path d="M-3-14L-24 16M3-14L24 16M-20 24h40"/></g>
+<text x="862.5" y="369" fill="#e8fff0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="600" text-anchor="middle">FishNet</text></g>
+<g>
+<rect x="942" y="269" width="135" height="117" rx="13" fill="#0a1d17" stroke="#254e38" stroke-width="1.5"/>
+<rect x="943" y="270" width="133" height="115" rx="12" fill="url(#cardShade)" opacity=".72"/>
+<g transform="translate(1009.5 313)" fill="none" stroke="#53ef88" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><rect x="-25" y="-24" width="50" height="48" rx="9"/><path d="M-38-12h13M-38 3h13M-38 17h13M25-12h13M25 3h13M25 17h13M-15-36v12M0-36v12M15-36v12M-15 24v12M0 24v12M15 24v12"/><circle cx="-11" cy="-8" r="4"/><circle cx="11" cy="-8" r="4"/><circle cx="0" cy="12" r="4"/><path d="M-8-4l8 12M8-4L0 8"/></g>
+<text x="1009.5" y="369" fill="#e8fff0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="600" text-anchor="middle">ML-Agents</text></g>
+<rect x="1140" y="270" width="400" height="54" rx="12" fill="#0b2119" stroke="#34774c" stroke-width="1.6"/>
+<path d="M1163 289h15l6 6h29v15h-50z" fill="none" stroke="#58ef8b" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="1229" y="294" fill="#f2fff7" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">Hard Blood</text>
+<text x="1229" y="313" fill="#9fc0aa" font-family="Arial,Helvetica,sans-serif" font-size="15">Published game</text>
+<rect x="1140" y="332" width="400" height="54" rx="12" fill="#0b2119" stroke="#34774c" stroke-width="1.6"/>
+<path d="M1163 352h15l6 6h29v15h-50z" fill="none" stroke="#58ef8b" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="1229" y="356" fill="#f2fff7" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">QUOTA SLOP</text>
+<text x="1229" y="376" fill="#9fc0aa" font-family="Arial,Helvetica,sans-serif" font-size="15">In development · Private source</text>
+<path d="M0 428H1600" stroke="#27c968" stroke-opacity=".53" stroke-width="2"/>
+<text x="60" y="417" fill="#87ae97" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="1.1">UNITY  ·  C#  ·  GAME AI  ·  TOOLS</text>
+<text x="1537" y="417" text-anchor="end" fill="#8fbda1" font-family="Arial,Helvetica,sans-serif" font-size="16">github.com/l33ter1337</text>
+</g></svg>
