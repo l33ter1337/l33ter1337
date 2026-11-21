@@ -1,0 +1,27 @@
+name: "Public question (visible to everyone)"
+description: "For non-confidential questions about this portfolio or published work. Freelance projects belong on Telegram."
+title: "[Public question] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This issue is PUBLIC.**
+
+        For freelance requests, budgets, private source code, client details or project requirements, use [Telegram @Djogdev](https://t.me/Djogdev) instead.
+
+        Continue below only if your question can be viewed by anyone.
+  - type: textarea
+    id: public-question
+    attributes:
+      label: "Your public question"
+      description: "Do not include personal details, credentials, private files or confidential project information."
+      placeholder: "A general question about a public project or this GitHub portfolio..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy-confirmation
+    attributes:
+      label: "Privacy acknowledgment"
+      options:
+        - label: "I understand this issue is public and contains no confidential information."
+          required: true

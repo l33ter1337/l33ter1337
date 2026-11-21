@@ -156,9 +156,11 @@
     "private_channel": "Telegram DM (not public GitHub Issues)",
     "public_questions": {
       "channel": "GitHub Issues",
-      "url": "https://github.com/l33ter1337/l33ter1337/issues/new"
+      "url": "https://github.com/l33ter1337/l33ter1337/issues/new/choose",
+      "note": "Select the Public question issue form. For budgets, private project requests and confidential information, use Telegram direct messages instead."
     },
-    "privacy": "Telegram direct messages are not posted publicly as GitHub Issues. Never send passwords or access tokens; verify recipients before sharing confidential material."
+    "privacy": "Telegram direct messages are not posted publicly as GitHub Issues. Never send passwords or access tokens; verify recipients before sharing confidential material.",
+    "inquiry_guidance": "Message @Djogdev with the Unity task or feature you need, any relevant context and your preferred timeline; budget is optional. Discuss sensitive project details in direct messages, not public issues."
   },
   "note": "Earlier project names are descriptive English translations. Historical work is based on archived game announcements and screenshots; present download availability has not been verified. Collaboration descriptions do not imply authorship of third-party 3D assets.",
   "skills": [

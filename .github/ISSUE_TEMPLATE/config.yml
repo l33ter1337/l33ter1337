@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Private freelance inquiry — Telegram @Djogdev"
+    url: "https://t.me/Djogdev"
+    about: "Discuss Unity development requests, project scope, pricing and private details directly, not in a public issue."
