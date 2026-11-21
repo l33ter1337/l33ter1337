@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "profile": "L33TER1337",
+  "github": "https://github.com/l33ter1337",
+  "role": "Unity / C# Game Developer",
+  "availability": "Open to freelance project inquiries",
+  "services": [
+    {
+      "id": "unity-debugging",
+      "title": "Unity / C# bug fixing",
+      "topics": [
+        "compiler errors",
+        "gameplay regressions",
+        "runtime behaviour",
+        "Unity Editor tools"
+      ]
+    },
+    {
+      "id": "unity-tools",
+      "title": "Unity Editor scripting and tools",
+      "topics": [
+        "custom editor workflows",
+        "authoring tools",
+        "C# components"
+      ]
+    },
+    {
+      "id": "gameplay",
+      "title": "Gameplay engineering",
+      "topics": [
+        "gameplay systems",
+        "first-person interactions",
+        "AI behaviour integration"
+      ]
+    },
+    {
+      "id": "procedural-generation",
+      "title": "Procedural 3D world generation",
+      "topics": [
+        "terrain",
+        "procedural layouts",
+        "CavityWorld systems"
+      ]
+    },
+    {
+      "id": "networking",
+      "title": "Multiplayer gameplay integration",
+      "topics": [
+        "FishNet",
+        "spawning",
+        "synchronisation"
+      ]
+    },
+    {
+      "id": "ml-agents",
+      "title": "Unity ML-Agents",
+      "topics": [
+        "training and integrating game agents",
+        "drones",
+        "vehicle agents"
+      ]
+    },
+    {
+      "id": "performance",
+      "title": "Unity performance optimisation",
+      "topics": [
+        "profiling",
+        "runtime hotspots",
+        "scene performance"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Hard Blood",
+      "status": "published",
+      "evidence": "https://daniilka1337games.itch.io/hard-blood"
+    },
+    {
+      "name": "QUOTA SLOP",
+      "status": "in development",
+      "code_visibility": "private",
+      "topics": [
+        "Unity",
+        "CavityWorld",
+        "FishNet",
+        "ML-Agents",
+        "procedural generation"
+      ]
+    }
+  ],
+  "pricing": "Quoted individually after scope review; no fixed public rates",
+  "contact": {
+    "channel": "GitHub public issues",
+    "url": "https://github.com/l33ter1337/l33ter1337/issues/new",
+    "privacy": "Do not post confidential source code, access keys or private information in public issues"
+  },
+  "note": "This manifest describes areas of experience; it does not guarantee project acceptance, availability at a specific date, or client outcomes."
+}
