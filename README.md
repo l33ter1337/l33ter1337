@@ -4,14 +4,14 @@
 
 **Unity / C# Developer · Gameplay · Editor Tools · FishNet · ML-Agents**
 
-[**💬 HIRE ME — Telegram @Djogdev ↗**](https://t.me/Djogdev) &nbsp;·&nbsp; [**🎮 Hard Blood — published game ↗**](https://daniilka1337games.itch.io/hard-blood)
+[**💬 Telegram — @Djogdev ↗**](https://t.me/Djogdev) &nbsp;·&nbsp; [**🎮 Hard Blood — published game ↗**](https://daniilka1337games.itch.io/hard-blood)
 
 </div>
 
 <div align="center">
 
 <a href="https://t.me/Djogdev">
-  <img src="./assets/hire-me-telegram-v2.gif" width="100%" alt="Message me directly on Telegram @Djogdev about Unity or C# freelance projects. Animated emerald contact banner." />
+  <img src="./assets/hire-me-telegram-v3.gif" width="100%" alt="Contact L33TER1337 on Telegram @Djogdev. Animated crystalline Telegram emblem with the message: Let’s build something great — Message on Telegram." />
 </a>
 
 </div>
