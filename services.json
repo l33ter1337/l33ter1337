@@ -72,15 +72,112 @@
   "projects": [
     {
       "name": "Hard Blood",
-      "status": "published",
-      "evidence": "https://daniilka1337games.itch.io/hard-blood"
+      "category": "published game",
+      "link": "https://daniilka1337games.itch.io/hard-blood"
+    },
+    {
+      "name": "Нубик — Последний выживший 3D",
+      "category": "historical 2025 game",
+      "topics": [
+        "survival",
+        "missions",
+        "base defence",
+        "endless mode"
+      ],
+      "availability": "not verified"
+    },
+    {
+      "name": "Нубик — кликер копальщик",
+      "category": "historical 2025 game",
+      "topics": [
+        "mining clicker",
+        "upgrades",
+        "graphics settings",
+        "optimization"
+      ],
+      "availability": "not verified"
+    },
+    {
+      "name": "FPV Симулятор Дронов 3D",
+      "category": "historical 2025 game",
+      "topics": [
+        "FPV control",
+        "drone simulation",
+        "HUD"
+      ],
+      "availability": "not verified"
+    },
+    {
+      "name": "Обби — Но ты Нубик на джетпаке",
+      "category": "historical 2025 game",
+      "topics": [
+        "jetpack movement",
+        "obstacle courses",
+        "upgrades"
+      ],
+      "availability": "not verified"
+    },
+    {
+      "name": "Кликер копальщик",
+      "category": "historical 2025 game",
+      "topics": [
+        "mining economy",
+        "workers",
+        "upgrades",
+        "UI"
+      ],
+      "availability": "not verified"
+    },
+    {
+      "name": "Лучший в подземелье",
+      "category": "historical 2025 game",
+      "topics": [
+        "dungeons",
+        "procedural levels",
+        "combat"
+      ],
+      "availability": "not verified"
+    },
+    {
+      "name": "Voxel Bullet / Critical Bullet",
+      "category": "earlier game project",
+      "topics": [
+        "game prototyping",
+        "Reveu Games history"
+      ],
+      "availability": "not verified"
     }
   ],
   "pricing": "Quoted individually after scope review; no fixed public rates",
   "contact": {
-    "channel": "GitHub public issues",
+    "channel": "Public GitHub issues for general non-confidential questions only",
     "url": "https://github.com/l33ter1337/l33ter1337/issues/new",
-    "privacy": "Do not post confidential source code, access keys or private information in public issues"
+    "private_channel": "Not yet published",
+    "privacy": "Do not post budgets, private source code, credentials, client data or confidential information in public issues."
   },
-  "note": "This manifest describes areas of experience; it does not guarantee project acceptance, availability at a specific date, or client outcomes."
+  "note": "Historical games are based on development screenshots and dated announcements provided by the creator. Their present availability is unverified; skills and collaboration descriptions do not imply authorship of any third-party 3D assets.",
+  "skills": [
+    "Unity / C# gameplay programming",
+    "FPS gameplay and combat systems",
+    "Survival game modes and progression",
+    "Unity Editor tooling",
+    "Procedural dungeons and environment generation",
+    "Unity troubleshooting and performance optimization",
+    "FishNet multiplayer integration",
+    "Unity ML-Agents training and game agent integration",
+    "FPV drone and vehicle gameplay systems",
+    "Jetpack/obstacle course systems",
+    "Clicker and mining game economies",
+    "UI/HUD implementation",
+    "Indie game prototyping and historical releases",
+    "3D asset collaboration with other developers"
+  ],
+  "collaborations": [
+    {
+      "name": "Hesing",
+      "role": "Assisted with model-related work; details not independently established",
+      "artist_reference": "https://sketchfab.com/3d-models/mcmillan-cs5-e919bb3a074f489ab29bc96cf3bee172",
+      "scope_note": "The Sketchfab example is the artist's work and is not asserted to be a joint-created model."
+    }
+  ]
 }
