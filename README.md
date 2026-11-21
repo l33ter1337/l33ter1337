@@ -1,52 +1,71 @@
 <div align="center">
 
-<img src="./assets/l33ter1337-animated.gif" width="100%" alt="L33TER1337 — Unity and C# Game Developer. Gameplay, Unity Editor tools, multiplayer, ML-Agents. Open for freelance projects." />
+**🇷🇺 Русский** &nbsp;·&nbsp; [**🇬🇧 English →**](./README_EN.md)
 
-**Unity / C# · Gameplay · Tools · Multiplayer · ML-Agents**
+<img src="./assets/l33ter1337-animated.gif" width="100%" alt="L33TER1337 — Unity / C# разработчик, игровые механики, инструменты Unity, мультиплеер и ML-Agents. Открыт к заказам." />
 
-**Open to freelance projects** · [**🎮 Hard Blood (published game)**](https://daniilka1337games.itch.io/hard-blood)
+### Разработчик игр на Unity / C#
+
+**Игровые механики · Инструменты Unity · FishNet · ML-Agents · Оптимизация**
+
+[**🎮 Hard Blood — опубликованная игра**](https://daniilka1337games.itch.io/hard-blood) &nbsp;·&nbsp; [**💬 Публичные вопросы**](https://github.com/l33ter1337/l33ter1337/issues/new)
 
 </div>
 
-### What I build
+### 🧩 Чем могу помочь
 
-| Specialization | Experience & services |
-| :-- | :-- |
-| **Unity / C# gameplay** | First-person interactions, combat, movement, game modes, progression |
-| **Debugging & optimisation** | Compiler/runtime bugs, gameplay fixes, profiling and performance work |
-| **Unity Editor tools** | Custom inspectors, editor workflows and scene-authoring utilities |
-| **Procedural content** | Levels, dungeons, environments and generated 3D geometry |
-| **Networking** | FishNet multiplayer and gameplay integration |
-| **ML-Agents / game AI** | Training and integrating game agents, including drones and vehicles |
-| **3D game prototyping** | FPV drone gameplay, jetpack challenges, survival and clicker mechanics |
+<img src="./assets/skills-ru.svg" width="100%" alt="Геймплей и C#, инструменты редактора Unity, процедурная генерация, отладка и оптимизация, FishNet и Unity ML-Agents." />
 
-### Selected work
+<details>
+<summary><b>Подробнее о навыках</b></summary>
 
-**[Hard Blood](https://daniilka1337games.itch.io/hard-blood)** — an earlier published game.
+- **Unity / C#:** управление персонажем, боевые и игровые механики, режимы, прогрессия, интерфейсы.
+- **Инструменты редактора:** собственные инспекторы, утилиты и инструменты создания уровней.
+- **Процедурная генерация:** уровни, подземелья и 3D-геометрия.
+- **Отладка и оптимизация:** ошибки компиляции и исполнения, профилирование, узкие места производительности.
+- **Мультиплеер:** работа с FishNet и интеграция сетевых игровых систем.
+- **Машинное обучение:** Unity ML-Agents, обучение и интеграция игровых агентов, включая дронов и транспорт.
 
-**Earlier projects (2025)** — selected titles documented in archived game announcements and screenshots:
+</details>
 
-| Project | Game systems demonstrated |
-| :-- | :-- |
-| **Нубик — Последний выживший 3D** | Survival gameplay, extraction-style missions, base defence and endless mode |
-| **Нубик — кликер копальщик** | Mining/clicker economy, upgrades, graphics settings and performance updates |
-| **FPV Симулятор Дронов 3D** | Drone-control simulation, first-person camera and mission-oriented gameplay |
-| **Обби — Но ты Нубик на джетпаке** | Jetpack movement, obstacle courses, timing and progression |
-| **Кликер копальщик** | Mining resources, worker upgrades, economy and UI |
-| **Лучший в подземелье** | Dungeon gameplay, procedural locations, combat and character progression |
+### 🕹️ Избранные работы
 
-<sub>These are historical project examples, not a claim that each title is currently downloadable or supported.</sub>
+<img src="./assets/projects-ru.svg" width="100%" alt="Hard Blood — опубликованная игра; FPV симулятор дронов; Нубик — Последний выживший 3D; Лучший в подземелье — игровые прототипы 2025 года." />
 
-**Voxel Bullet → Critical Bullet** — an earlier game project, also featured in the Reveu Games development history.
+**[Смотреть Hard Blood на itch.io →](https://daniilka1337games.itch.io/hard-blood)**
 
-**3D asset collaboration** — assisted game developer and 3D artist **Hesing** with model-related work. [Artist reference on Sketchfab](https://sketchfab.com/3d-models/mcmillan-cs5-e919bb3a074f489ab29bc96cf3bee172) (the linked model is the artist's work, not a claim of authorship).
+<details>
+<summary><b>Остальные проекты и история разработки</b></summary>
 
-### Available for freelance work
+**Проекты 2025 года** — по сохранённым публикациям и скриншотам:
 
-Unity bug fixes, gameplay features, custom editor tools, prototyping and game AI. Project scope and pricing are discussed individually.
+- **Нубик — Последний выживший 3D:** вылазки, оборона базы, бесконечный режим.
+- **Нубик — кликер копальщик:** добыча, улучшения, настройки графики, работа над производительностью.
+- **FPV Симулятор Дронов 3D:** управление дроном, FPV-камера, игровой интерфейс.
+- **Обби — Но ты Нубик на джетпаке:** движение на джетпаке, препятствия, таймер, улучшения.
+- **Кликер копальщик:** добыча ресурсов, рабочие, экономика, интерфейс.
+- **Лучший в подземелье:** подземелья, бой, развитие персонажа и случайные локации.
 
-**Private inquiries:** a confidential contact channel will be added here when configured.
+**Более ранние проекты:** Voxel Bullet → Critical Bullet, история Reveu Games.
 
-[**Public questions only — GitHub Issues →**](https://github.com/l33ter1337/l33ter1337/issues/new) · [**Skills & services (JSON)**](./services.json)
+**Сотрудничество:** помогал разработчику и 3D-художнику **Hesing** в работе с моделями. [Профильный пример его работы на Sketchfab](https://sketchfab.com/3d-models/mcmillan-cs5-e919bb3a074f489ab29bc96cf3bee172). Авторство конкретной модели себе не приписываю.
 
-<sub>GitHub Issues are public. Do not include budgets, client information, private code, credentials or confidential project details.</sub>
+*Старые проекты приведены как примеры опыта; они не обязательно доступны для скачивания сейчас.*
+
+</details>
+
+### 💼 Заказы и сотрудничество
+
+**Открыт к фриланс-задачам:** исправление ошибок Unity/C#, игровые механики, инструменты редактора, прототипы, генерация уровней и игровой ИИ. Стоимость обсуждается индивидуально.
+
+**Личные обращения:** конфиденциальный способ связи ещё не опубликован.
+
+[**Публичные вопросы — GitHub Issues →**](https://github.com/l33ter1337/l33ter1337/issues/new) &nbsp;·&nbsp; [**Навыки и услуги для автоматического чтения (JSON)**](./services.json)
+
+<sub>GitHub Issues видны всем. Не публикуйте там бюджеты, приватные исходники, пароли или конфиденциальные сведения.</sub>
+
+<div align="center">
+
+[**🇬🇧 Switch to English →**](./README_EN.md)
+
+</div>

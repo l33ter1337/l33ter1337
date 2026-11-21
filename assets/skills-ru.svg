@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1190 583" role="img" aria-label="ЧЕМ МОГУ ПОМОЧЬ">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07130F"/><stop offset=".55" stop-color="#0B1B18"/><stop offset="1" stop-color="#071119"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142823"/><stop offset="1" stop-color="#0A1618"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#11A56D"/><stop offset=".5" stop-color="#62FFD1"/><stop offset="1" stop-color="#157F64"/></linearGradient>
+<pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#4AAB8C" stroke-opacity=".06"/></pattern>
+</defs>
+<rect width="1190" height="583" rx="18" fill="url(#bg)"/><rect width="1190" height="583" rx="18" fill="url(#grid)"/>
+<path d="M28 28h60M28 28v34M1162 28h-60M1162 28v34" stroke="#36C58E" stroke-opacity=".53" stroke-width="2" fill="none"/>
+<rect x="31" y="46" width="7" height="27" rx="2" fill="#39F3A7"/>
+<text x="52" y="70" fill="#E5FFF1" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="800" letter-spacing="1.7">ЧЕМ МОГУ ПОМОЧЬ</text>
+<path d="M610 60h560" stroke="url(#line)" stroke-width="1.8" stroke-opacity=".5"/>
+<g><rect x="29" y="102" width="570" height="138" rx="15" fill="url(#card)" stroke="#275544" stroke-width="1.5"/>
+<rect x="31" y="104" width="566" height="134" rx="14" fill="none" stroke="#43E5A5" stroke-opacity=".08"/>
+<rect x="31" y="121" width="4" height="100" rx="2" fill="#38DB90"/>
+<g transform="translate(96 169) scale(0.8)" fill="none" stroke="#63F9B0" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round"><path d="M-30 5q-7-17-15-9l-7 15q-3 13 9 12l20-12h46l20 12q12 1 9-12l-7-15q-8-8-15 9"/><path d="M-24-2v17M-32 6h16"/><circle cx="23" cy="1" r="3.5"/><circle cx="32" cy="10" r="3.5"/></g>
+<text x="155" y="148" fill="#F4FFF8" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">Геймплей / C#</text>
+<text x="155" y="183" fill="#C1D8CB" font-family="Arial,Helvetica,sans-serif" font-size="22">FPS, бой и взаимодействия</text>
+<text x="155" y="214" fill="#91C5AA" font-family="Arial,Helvetica,sans-serif" font-size="21">режимы и прогрессия</text></g>
+<g><rect x="624" y="102" width="570" height="138" rx="15" fill="url(#card)" stroke="#275544" stroke-width="1.5"/>
+<rect x="626" y="104" width="566" height="134" rx="14" fill="none" stroke="#43E5A5" stroke-opacity=".08"/>
+<rect x="626" y="121" width="4" height="100" rx="2" fill="#38DB90"/>
+<g transform="translate(691 169) scale(0.8)" fill="none" stroke="#63F9B0" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round"><path d="M-27-15l27-15 27 15L0 0zM-27-15v32L0 31l27-14v-32M0 0v31"/></g>
+<text x="750" y="148" fill="#F4FFF8" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">Инструменты Unity</text>
+<text x="750" y="183" fill="#C1D8CB" font-family="Arial,Helvetica,sans-serif" font-size="22">Редактор, сцены и утилиты</text>
+<text x="750" y="214" fill="#91C5AA" font-family="Arial,Helvetica,sans-serif" font-size="21">инспекторы и рабочие панели</text></g>
+<g><rect x="29" y="256" width="570" height="138" rx="15" fill="url(#card)" stroke="#275544" stroke-width="1.5"/>
+<rect x="31" y="258" width="566" height="134" rx="14" fill="none" stroke="#43E5A5" stroke-opacity=".08"/>
+<rect x="31" y="275" width="4" height="100" rx="2" fill="#38DB90"/>
+<g transform="translate(96 323) scale(0.8)" fill="none" stroke="#63F9B0" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round"><path d="M-33-18L0-35 33-18 0-2Z M-33-4L0 12 33-4M-33 12L0 29 33 12"/></g>
+<text x="155" y="302" fill="#F4FFF8" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">Генерация миров</text>
+<text x="155" y="337" fill="#C1D8CB" font-family="Arial,Helvetica,sans-serif" font-size="22">Уровни, подземелья</text>
+<text x="155" y="368" fill="#91C5AA" font-family="Arial,Helvetica,sans-serif" font-size="21">и процедурная геометрия</text></g>
+<g><rect x="624" y="256" width="570" height="138" rx="15" fill="url(#card)" stroke="#275544" stroke-width="1.5"/>
+<rect x="626" y="258" width="566" height="134" rx="14" fill="none" stroke="#43E5A5" stroke-opacity=".08"/>
+<rect x="626" y="275" width="4" height="100" rx="2" fill="#38DB90"/>
+<g transform="translate(691 323) scale(0.8)" fill="none" stroke="#63F9B0" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4-37l-34 44H-5L-9 36l39-51H5Z"/></g>
+<text x="750" y="302" fill="#F4FFF8" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">Отладка и FPS</text>
+<text x="750" y="337" fill="#C1D8CB" font-family="Arial,Helvetica,sans-serif" font-size="22">Исправление ошибок</text>
+<text x="750" y="368" fill="#91C5AA" font-family="Arial,Helvetica,sans-serif" font-size="21">профилирование и оптимизация</text></g>
+<g><rect x="29" y="410" width="570" height="138" rx="15" fill="url(#card)" stroke="#275544" stroke-width="1.5"/>
+<rect x="31" y="412" width="566" height="134" rx="14" fill="none" stroke="#43E5A5" stroke-opacity=".08"/>
+<rect x="31" y="429" width="4" height="100" rx="2" fill="#38DB90"/>
+<g transform="translate(96 477) scale(0.8)" fill="none" stroke="#63F9B0" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round"><circle cy="-28" r="9"/><circle cx="-29" cy="23" r="9"/><circle cx="29" cy="23" r="9"/><path d="M-6-18L-24 14M6-18L24 14M-20 23h40"/></g>
+<text x="155" y="456" fill="#F4FFF8" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">Кооператив</text>
+<text x="155" y="491" fill="#C1D8CB" font-family="Arial,Helvetica,sans-serif" font-size="22">FishNet и игровые сети</text>
+<text x="155" y="522" fill="#91C5AA" font-family="Arial,Helvetica,sans-serif" font-size="21">спавн и синхронизация</text></g>
+<g><rect x="624" y="410" width="570" height="138" rx="15" fill="url(#card)" stroke="#275544" stroke-width="1.5"/>
+<rect x="626" y="412" width="566" height="134" rx="14" fill="none" stroke="#43E5A5" stroke-opacity=".08"/>
+<rect x="626" y="429" width="4" height="100" rx="2" fill="#38DB90"/>
+<g transform="translate(691 477) scale(0.8)" fill="none" stroke="#63F9B0" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round"><rect x="-24" y="-25" width="48" height="50" rx="9"/><path d="M-34-12h10M-34 6h10M24-12h10M24 6h10M-13-36v11M13-36v11M-13 25v11M13 25v11"/><circle cx="-10" cy="-7" r="4"/><circle cx="10" cy="-7" r="4"/><path d="M-10 10h20"/></g>
+<text x="750" y="456" fill="#F4FFF8" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">Unity ML-Agents</text>
+<text x="750" y="491" fill="#C1D8CB" font-family="Arial,Helvetica,sans-serif" font-size="22">Обучаемые игровые агенты</text>
+<text x="750" y="522" fill="#91C5AA" font-family="Arial,Helvetica,sans-serif" font-size="21">дроны и транспорт</text></g>
+</svg>
