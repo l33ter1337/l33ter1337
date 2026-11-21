@@ -1,56 +1,31 @@
 <div align="center">
 
-# L33TER1337
-### Unity / C# Developer
+<img src="./assets/l33-green-profile.svg" width="100%" alt="L33TER1337 — Unity / C# developer, freelance services, skills including ML-Agents, and featured projects" />
 
-**Gameplay systems · Bug fixing · Unity Editor tools · Procedural generation · Multiplayer · ML-Agents**
+**Unity / C# game development — open to freelance work**
 
-**Open to paid freelance projects — from focused fixes to custom game systems.**
-
-[**Discuss a Unity task →**](https://github.com/l33ter1337/l33ter1337/issues/new)
-
-<sub>GitHub issues are public. Please don't include private code, credentials, or sensitive project details in an inquiry.</sub>
+[**Discuss a Unity project**](https://github.com/l33ter1337/l33ter1337/issues/new) · [**Hard Blood (itch.io)**](https://daniilka1337games.itch.io/hard-blood)
 
 </div>
 
 ---
 
-## How I can help
+### Services & skills
 
-| Service | Example tasks |
-| --- | --- |
-| **Unity / C# debugging** | Fix compiler errors, broken interactions, unexpected Play Mode behaviour, and regressions |
-| **Unity Editor tools** | Create custom editors, scene workflows, authoring tools, and quality-of-life utilities |
-| **Procedural generation** | Terrain, level layouts, 3D geometry, paths, and generation workflows |
-| **Gameplay engineering** | First-person mechanics, interactions, AI-related systems, and game logic |
-| **Multiplayer** | Investigate FishNet spawning, state synchronisation, and gameplay integration |
-| **Unity ML-Agents** | Train and integrate machine-learning agents for game behaviour, including drones and vehicles |
-| **Performance** | Profile bottlenecks and optimise allocations, repeated lookups, meshes, and scene updates |
+**Unity / C#:** gameplay systems, bug fixing, Unity Editor tools, procedural generation, performance optimisation.
 
-**Small job?** A specific bug with clear reproduction steps is a great place to start. For larger work, let's define the scope and acceptance criteria first.
+**Multiplayer & ML:** FishNet, Unity ML-Agents, training and integration of game AI agents including drones and vehicles.
 
-## Selected projects
+### Selected work
 
-### [Hard Blood — published game](https://daniilka1337games.itch.io/hard-blood)
-An earlier released game project. [View the public game page](https://daniilka1337games.itch.io/hard-blood).
+**[Hard Blood](https://daniilka1337games.itch.io/hard-blood)** — an earlier published game.
 
-### QUOTA SLOP — active development
-A Unity game project involving procedural worlds (CavityWorld), authoring tools, FPS gameplay systems, FishNet co-op, performance work, and Unity ML-Agents training for drone and vehicle agents.
+**QUOTA SLOP** — a Unity project in active development, covering procedural CavityWorld environments, game systems, co-op, tooling and ML-Agents. **Source code is private.**
 
-> The QUOTA SLOP source repository is **private**. Public demonstrations and shareable code samples will be listed here when available; the private project is not presented as open source.
+### Freelance inquiries
 
-## Tools & technologies
+Available for focused Unity fixes, gameplay features, custom editor tooling and larger scoped tasks. Quotes depend on scope and requirements.
 
-`Unity` · `C#` · `Unity ML-Agents` · `Machine learning for game AI` · `Git / GitHub` · `FishNet` · `3D gameplay` · `Procedural generation` · `Unity Editor scripting` · `Performance profiling`
+[**Contact via GitHub Issues →**](https://github.com/l33ter1337/l33ter1337/issues/new)
 
----
-
-<div align="center">
-
-**Need a Unity bug fixed or a tool built?**
-
-[**Start a project inquiry on GitHub**](https://github.com/l33ter1337/l33ter1337/issues/new)
-
-<sub>Independent Unity / C# development · Portfolio in progress</sub>
-
-</div>
+<sub>GitHub Issues are public. Please don't post private code, credentials, or sensitive project material there.</sub>
